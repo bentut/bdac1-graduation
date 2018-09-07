@@ -102,17 +102,6 @@ Hotel_Occ <- rbind(Dec31.17_Jan6,Jan7_13,Jan14_20,Jan21_27,Jan28_Feb3,Feb4_10,Fe
 
 write.csv(Hotel_Occ, "HotelOccupancy.csv")
 
-p <- plot_ly(filterdatetest, x = ~Date, y = ~Atlanta_GA, name = 'Atlanta,GA', type = 'scatter', mode = 'lines',
-             line = list(color = 'rgb(255, 0, 0)', width = 4)) %>%
-  add_trace(y = ~Oahu_HI, name = 'Oahu, HI', line = list(color = 'rgb(255, 127, 0)', width = 4)) %>%
- # add_trace(y = ~Boston_MA, name = 'Boston, MA', line = list(color = 'rgb(255, 255, 0)', width = 4)) %>%
- # add_trace(y = ~Phoenix_AZ, name = 'Phoenix, AZ', line = list(color = 'rgb(0, 255, 0)', width = 4)) %>%
-  add_trace(y = ~Seattle_WA, name = 'Seattle, WA', line = list(color = 'rgb(148, 0, 211)', width = 4)) %>%
- # add_trace(y = ~StLouis_MO.IL, name = 'ST Louis, MO-IL', line = list(color = 'rgb(148, 0, 211)', width = 4)) %>%
-  layout(title = "Hotel Occupancy by Location/Month",
-         xaxis = list(title = "Month"),
-         yaxis = list (title = "% Occupied"))
-
 startdate <- "2018-05-06"
 enddate <- "2018-05-26"
 
