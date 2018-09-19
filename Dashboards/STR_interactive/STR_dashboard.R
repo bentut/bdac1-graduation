@@ -3,7 +3,9 @@ library(shiny)
 library(plotly)
 library(RColorBrewer)
 Hotel_Occ <- read.csv(file = "HotelOccupancy.csv", header = TRUE)
+Hotel_ADR <- read.csv(file = "HotelADR.csv", header = TRUE)
 Hotel_Occ$Date <- as.Date(Hotel_Occ$Date)
+Hotel_ADR$Date <- as.Date(Hotel_ADR$Date)
 colorpal <- colorpal <- c("#9E0142", "#D53E4F", "#F46D43", "#FDAE61", "#FEE08B","#FFFFBF","#ABDDA4","#66C2A5","#3288BD","#5E4FA2")
 ui <- fluidPage(
   dateRangeInput(inputId = "DateRange", 
@@ -24,7 +26,8 @@ ui <- fluidPage(
               selected = "Atlanta_GA",
               multiple = TRUE,
               selectize = TRUE),
-  plotlyOutput("hist")
+  plotlyOutput("hist"),
+  plotlyOutput("hist1")
 )
 
 server <- function(input, output) {
@@ -48,6 +51,27 @@ server <- function(input, output) {
       print(paste("~",input$states[i], sep = ""))
       }
       t
+  })
+  output$hist1 <- renderPlotly({
+    print(class(input$DateRange[1]))
+    print(input$DateRange[2])
+    print(input$states[1])
+    filterdatetest2 <- filter(Hotel_ADR,  between(Date, input$DateRange[1], input$DateRange[2]))
+    l <-  plot_ly(filterdatetest2, x = ~Date, y = ~NA, name = 'Atlanta,GA', type = 'scatter', mode = 'lines',
+                  line = list(color = 'rgb(255, 0, 0)', width = 4)) #%>%
+    l <- l %>% layout(title = "Hotel ADR by Location/Month",
+                      xaxis = list(title = "Month"),
+                      yaxis = list (title = "Average Daily Rate"))
+    for (i in 1:length(input$states)){
+      l <- l %>% add_trace(y = as.formula(paste("~",input$states[i], sep = "")), name = input$states[i], 
+                           line = list(color = for (i in colorpal){
+                             print(paste("the color is", i))
+                           }, 
+                           width = 4))
+      print(as.formula("~input$states[i]"))
+      print(paste("~",input$states[i], sep = ""))
+    }
+    l
   })
 }
 
