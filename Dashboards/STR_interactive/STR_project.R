@@ -2,9 +2,6 @@
 #From here I would like to make a dashboard with the data. More to come...
 #test subject is STR
 
-#set working directory
-setwd("/Users/victorialarson/Desktop/Dev_League/STR")
-
 # Using Libray pdftools
 library(pdftools)
 library(stringr)
@@ -91,8 +88,12 @@ Jun24_Jun30 <- get_file_from_date("2018-06-24")
 Jul1_7 <- get_file_from_date("2018-07-01")
 #Jul8_14 <- get_file_from_date("")
 Jul15_21 <- get_file_from_date("2018-07-15")
+#Jul22_28 <- get_file_from_date("")
 Jul29_Aug4 <- get_file_from_date("2018-07-29")
 Aug5_11 <- get_file_from_date("2018-08-05")
+Aug12_18 <- get_file_from_date("2018-08-12")
+Aug19_24 <- get_file_from_date("2018-08-19")
+Aug25_Sept1 <- get_file_from_date("2018-08-25")
 
 #binding dem rows 
 Hotel_Occ <- rbind(Dec31.17_Jan6,Jan7_13,Jan14_20,Jan21_27,Jan28_Feb3,Feb4_10,Feb11_17,
@@ -101,11 +102,4 @@ Hotel_Occ <- rbind(Dec31.17_Jan6,Jan7_13,Jan14_20,Jan21_27,Jan28_Feb3,Feb4_10,Fe
       Jun17_Jun23,Jun24_Jun30,Jul1_7,Jul15_21,Jul29_Aug4,Aug5_11)
 
 write.csv(Hotel_Occ, "HotelOccupancy.csv")
-
-startdate <- "2018-05-06"
-enddate <- "2018-05-26"
-
-seq(as.Date(startdate),as.Date(enddate), "days")
-
-filterdatetest <- filter(Hotel_Occ, Date == seq(as.Date(startdate),as.Date(enddate), "days"))
 
