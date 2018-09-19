@@ -94,12 +94,13 @@ Aug5_11 <- get_file_from_date("2018-08-05")
 Aug12_18 <- get_file_from_date("2018-08-12")
 Aug19_24 <- get_file_from_date("2018-08-19")
 Aug25_Sept1 <- get_file_from_date("2018-08-25")
+Sept2_Sept8 <- get_file_from_date("2018-09-02")
 
 #binding dem rows 
 Hotel_Occ <- rbind(Dec31.17_Jan6,Jan7_13,Jan14_20,Jan21_27,Jan28_Feb3,Feb4_10,Feb11_17,
       Feb18_24,Feb25_Mar3,Mar4_10,Mar11_17,Mar18_24,Mar25_31,Apr1_7,Apr8_14,
       May6_12,May13_19,May20_26,May27_Jun2,Jun3_Jun9,Jun10_Jun16,
-      Jun17_Jun23,Jun24_Jun30,Jul1_7,Jul15_21,Jul29_Aug4,Aug5_11)
+      Jun17_Jun23,Jun24_Jun30,Jul1_7,Jul15_21,Jul29_Aug4,Aug5_11,Aug12_18,Aug19_24,Aug25_Sept1,Sept2_Sept8)
 
 write.csv(Hotel_Occ, "HotelOccupancy.csv")
 
