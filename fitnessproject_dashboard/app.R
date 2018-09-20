@@ -1,4 +1,3 @@
-# Fitness Data Project - Data Manipulation
 
 library(readr)
 library(magrittr)
@@ -62,16 +61,6 @@ otf$time_adj <- ifelse(otf$Date_3 == "5:30PM", "5:30PM",
 #Shiny App Code Begins
 
 # DASHBOARD PACKAGES
-
-install.packages("shinydashboard")
-install.packages("scales")
-#install.packages("shinyHeatmaply")
-install.packages("ggplot2")
-install.packages("shinythemes")
-install.packages("plotly")
-#install.packages("heatmaply")
-#install.packages("d3heatmap")
-install.packages("dplyr")
 
 ## app.R ##
 library(shinydashboard)
