@@ -20,6 +20,8 @@ Click on the badges below to launch the dashboards
 ![Fitness Dashboard](images/fitnessproject_dashboard.png)
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/bentut/bdac1-graduation/master?urlpath=shiny/fitnessproject_dashboard/)
 
+[View on Shinyapps.io](https://runj.shinyapps.io/fitnessproject/)
+
 # XerCises
 You'll find snippets of codes and examples of how to do data and coding tasks in the XerCises directory. If you launch the collection with the badge above, you'll be able to run the code and even add your own notebooks. Download the whole collection and run jupyter notebooks locally for the most flexibility
 
