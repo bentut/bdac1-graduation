@@ -1,5 +1,4 @@
-# BDAC 1 Graduation Repo
-## All the learns from 40 weeks and 120 nights of data class!
+# BDAC 1 Graduation Repo: All the learns from 40 weeks and 120 nights of data class!
 Clone this directory and launch a local server of jupyter notebooks in the directory to play around with the content and material that was shared live.
 
 # Launch the Jupyter Notebook Collection
@@ -8,14 +7,15 @@ Click the badge below to access live versions of all of the notebooks we publish
 
 # Launch the Shiny Dashboard Projects
 Click on the badges below to launch the dashboards
-STR Hotel Data Dashboard
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/bentut/bdac1-graduation/master?urlpath=shiny/str_dashboard/)
 
-EV Charger App Dashboard
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/bentut/bdac1-graduation/master?urlpath=shiny/ev_charger_dashboard/)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/bentut/bdac1-graduation/master?urlpath=shiny/str_dashboard/)STR Hotel Data Dashboard
 
-Fitness Project Dashboard
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/bentut/bdac1-graduation/master?urlpath=shiny/fitnessproject_dashboard/)
+
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/bentut/bdac1-graduation/master?urlpath=shiny/ev_charger_dashboard/)EV Charger App Dashboard
+
+
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/bentut/bdac1-graduation/master?urlpath=shiny/fitnessproject_dashboard/)Fitness Project Dashboard
+
 
 # XerCises
 You'll find snippets of codes and examples of how to do data and coding tasks in the XerCises directory. If you launch the collection with the badge above, you'll be able to run the code and even add your own notebooks. Download the whole collection and run jupyter notebooks locally for the most flexibility
