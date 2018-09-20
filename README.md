@@ -8,16 +8,16 @@ Click the badge below to access live versions of all of the notebooks we publish
 # Launch the Shiny Dashboard Projects
 Click on the badges below to launch the dashboards
 
-**STR Hotel Data Dashboard**
+### STR Hotel Data Dashboard
 ![STR Dashboard](images/str_dashboard.jpeg)
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/bentut/bdac1-graduation/master?urlpath=shiny/str_dashboard/)
 
-**EV Charger App Dashboard**
+### EV Charger App Dashboard
 ![EV Dashboard](images/ev_charger_dashboard.png)
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/bentut/bdac1-graduation/master?urlpath=shiny/ev_charger_dashboard/)
 
-**Fitness Project Dashboard**
-![Fitness Dashboard](images/fitnessproject_dashboard.jpeg)
+### Fitness Project Dashboard
+![Fitness Dashboard](images/fitnessproject_dashboard.png)
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/bentut/bdac1-graduation/master?urlpath=shiny/fitnessproject_dashboard/)
 
 # XerCises
