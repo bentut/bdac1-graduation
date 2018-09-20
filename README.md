@@ -8,14 +8,17 @@ Click the badge below to access live versions of all of the notebooks we publish
 # Launch the Shiny Dashboard Projects
 Click on the badges below to launch the dashboards
 
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/bentut/bdac1-graduation/master?urlpath=shiny/str_dashboard/)STR Hotel Data Dashboard
+**STR Hotel Data Dashboard**
 ![STR Dashboard](images/str_dashboard.jpeg)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/bentut/bdac1-graduation/master?urlpath=shiny/str_dashboard/)
 
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/bentut/bdac1-graduation/master?urlpath=shiny/ev_charger_dashboard/)EV Charger App Dashboard
-![EV Dashboard](images/ev_charger_dashboard.jpeg)
+**EV Charger App Dashboard**
+![EV Dashboard](images/ev_charger_dashboard.png)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/bentut/bdac1-graduation/master?urlpath=shiny/ev_charger_dashboard/)
 
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/bentut/bdac1-graduation/master?urlpath=shiny/fitnessproject_dashboard/)Fitness Project Dashboard
+**Fitness Project Dashboard**
 ![Fitness Dashboard](images/fitnessproject_dashboard.jpeg)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/bentut/bdac1-graduation/master?urlpath=shiny/fitnessproject_dashboard/)
 
 # XerCises
 You'll find snippets of codes and examples of how to do data and coding tasks in the XerCises directory. If you launch the collection with the badge above, you'll be able to run the code and even add your own notebooks. Download the whole collection and run jupyter notebooks locally for the most flexibility
