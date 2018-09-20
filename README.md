@@ -22,6 +22,11 @@ Click on the badges below to launch the dashboards
 
 [View on Shinyapps.io](https://runj.shinyapps.io/fitnessproject/)
 
+### Farmer Needs Assessment Interactive roadmap
+![Fitness Dashboard](images/farmers.png)
+[View on github.io](https://supersistence.github.io/)
+
+
 # XerCises
 You'll find snippets of codes and examples of how to do data and coding tasks in the XerCises directory. If you launch the collection with the badge above, you'll be able to run the code and even add your own notebooks. Download the whole collection and run jupyter notebooks locally for the most flexibility
 
