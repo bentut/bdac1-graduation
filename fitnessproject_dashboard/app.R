@@ -63,26 +63,29 @@ otf$time_adj <- ifelse(otf$Date_3 == "5:30PM", "5:30PM",
 
 # DASHBOARD PACKAGES
 
-#install.packages("shinydashboard")
-#install.packages("scales")
+install.packages("shinydashboard")
+install.packages("scales")
 #install.packages("shinyHeatmaply")
-#install.packages("ggplot2")
+install.packages("ggplot2")
+install.packages("shinythemes")
+install.packages("plotly")
 #install.packages("heatmaply")
 #install.packages("d3heatmap")
-#install.packages("dplyr")
+install.packages("dplyr")
 
 ## app.R ##
 library(shinydashboard)
-library(DT)
+#library(DT)
 library(scales)
-library(shinyHeatmaply)
+#library(shinyHeatmaply)
 library(shiny)
-library(d3heatmap)
+#library(d3heatmap)
 library(RColorBrewer)
-#library(shinythemes)
+library(shinythemes)
 library(ggplot2)
-library(heatmaply)
+#library(heatmaply)
 library(dplyr)
+library(plotly)
 
 ui <- dashboardPage(
   dashboardHeader(title = "Fitness Dashboard"),
@@ -233,7 +236,7 @@ server <- function(input, output) {
     
     valueBox(
       filter_otf %>%
-        summarise((mean(splats, na.rm=TRUE))),
+        summarise(round(mean(splats, na.rm=TRUE))),
       "Average Splat Points",
       color = "orange"
     )
@@ -250,7 +253,7 @@ server <- function(input, output) {
     valueBox(
       filter_otf %>%
         select(Instructor, time_adj, splats, calories, averagehr, splat_goal_yes) %>% 
-        summarise((mean(calories, na.rm=TRUE))),
+        summarise(round(mean(calories, na.rm=TRUE))),
       "Average Calories Burned",
       color = "navy"
     )
@@ -266,7 +269,7 @@ server <- function(input, output) {
     valueBox(
       filter_otf %>%
         #select(Instructor, time_adj, splats, calories, averagehr, splat_goal_yes) %>% 
-        summarise((mean(averagehr, na.rm=TRUE))),
+        summarise(round(mean(averagehr, na.rm=TRUE))),
       "Average Heart Rate",
       color = "olive"
     )
