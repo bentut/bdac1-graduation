@@ -1,0 +1,63 @@
+,Cmn_Address,EV_Unnamed: 0,EV_Station ID,EV_Station name,EV_Location,EV_Island,EV_Address,EV_City,EV_State,EV_Zip Code,EV_Latitude,EV_Longitude,EV_Contact Name,EV_Charge Fee,EV_Park Fee,EV_Parking Lot,EV_Hours,EV_Ports,EV_Restrictions,EV_Number of Stations,EV_Charge Fees,EV_Manufacturers,EV_Charging Levels,EV_Date Initially Added,CH_Unnamed: 0,CH_Station Name,CH_Org Name,CH_Address 1,CH_City,CH_State,CH_Postal Code,CH_County,CH_Country,CH_No. of Ports,CH_Station Activation Type,CH_Customer Category
+29,1000ULUOHIASTREET,,,,,,,,,,,,,,,,,,,,,,,,105.0,C&C HONOLULU / KAPOLEI HALE,City & County of Honolulu,1000 Ulu'Ohi'a St,Kapolei,Hawaii,96707.0,Honolulu County,United States,1.0,Public,Municipal
+30,1001KAMOKILABOULEVARD,,,,,,,,,,,,,,,,,,,,,,,,100.0,CAMPBELL SQUARE / 1001 KAMOKILA,"James Campbell Company LLC co MMI Realty Services, Inc.",1001 Kamokila Blvd,Kapolei,Hawaii,96707.0,Honolulu County,United States,2.0,Public,Workplace
+31,101MALUNIUAVENUE,,,,,,,,,,,,,,,,,,,,,,,,92.0,HALE MALUNIU / HALE MALUNIU,Highmark Capital LLC,101 Maluniu Ave,Kailua,Hawaii,96734.0,Honolulu County,United States,2.0,Public,Multifamily Commercial
+32,111911234THAVENUE,,,,,,,,,,,,,,,,,,,,,,,,32.0,STATION / KAIMUKI 1,CBI Inc. Hawaii,1119-1123 4th Ave,Honolulu,Hawaii,96816.0,Honolulu County,United States,2.0,Public,Retail
+33,11511185WAIANUENUEAVENUE,,,,,,,,,,,,,,,,,,,,,,,,45.0,PARKING LOT / HMC1,Hawaii Health Systems Hilo Medical Center,1151-1185 Waianuenue Ave,Hilo,Hawaii,96720.0,Hawaii County,United States,2.0,Public,Healthcare
+34,1170NUUANUAVENUE,,,,,,,,,,,,,,,,,,,,,,,,101.0,C&C HONOLULU / SMITH-BERETANIA,City & County of Honolulu,1170 Nuuanu Ave,Honolulu,Hawaii,96817.0,Honolulu County,United States,1.0,Public,Municipal
+35,1189WAIMANUSTREET,,,,,,,,,,,,,,,,,,,,,,,,27.0,STATION 2 / WAIHONUA 5,Waihonua at Kewalo,1189 Waimanu St,Honolulu,Hawaii,96814.0,Honolulu County,United States,1.0,Public,Workplace
+36,1234SOUTHBERETANIASTREET,,,,,,,,,,,,,,,,,,,,,,,,148.0,1234 BERETANIA / S BERETANIA ST,"MMI Realty Services, Inc.",1234 S. Beretania St,Honolulu,Hawaii,96814.0,Honolulu County,United States,2.0,Public,Workplace
+37,1260KUALASTREET,,,,,,,,,,,,,,,,,,,,,,,,59.0,KUALA / STATION 2,Hickam Federal Credit Union,1260 Kuala St,Pearl City,Hawaii,96782.0,Honolulu County,United States,1.0,Public,Workplace
+38,1288ALAMOANABOULEVARD,,,,,,,,,,,,,,,,,,,,,,,,93.0,GS STATION / HOKUA 1,Hokua Honolulu,1288 Ala Moana Blvd,Honolulu,Hawaii,96814.0,Honolulu County,United States,2.0,Public,Multifamily Commercial
+39,13001318HI92,,,,,,,,,,,,,,,,,,,,,,,,43.0,PARKLANE / STATION 2,Parklane Ala Moana,1300-1318 HI-92,Honolulu,Hawaii,96814.0,Honolulu County,United States,1.0,Public,Multifamily Commercial
+40,13201346HI92,,,,,,,,,,,,,,,,,,,,,,,,42.0,PARKLANE / STATION 3,Parklane Ala Moana,1320-1346 HI-92,Honolulu,Hawaii,96814.0,Honolulu County,United States,2.0,Public,Multifamily Commercial
+41,1703BINGHAMSTREET,,,,,,,,,,,,,,,,,,,,,,,,80.0,KAPIOLANI / KMC 1,HPH Kapiolani Medical Center,1703 Bingham St,Honolulu,Hawaii,96826.0,Honolulu County,United States,2.0,Public,Healthcare
+42,1801KALAKAUAAVENUE,,,,,,,,,,,,,,,,,,,,,,,,49.0,NCC DEMO / ALOHA CHARGE,DEMO Org - NCC (Natl Car Charging),1801 Kalakaua Ave,Honolulu,Hawaii,96815.0,Honolulu County,United States,2.0,Public,Demo Unit
+43,18881898WILIPALOOP,,,,,,,,,,,,,,,,,,,,,,,,4.0,WAILUKU BRANCH / MCFU WAILUKU 1,Maui County Federal Credit Union,1888-1898 Wili Pa Loop,Wailuku,Hawaii,96793.0,Maui County,United States,2.0,Public,Workplace
+44,210WESTKAMEHAMEHAAVENUE,,,,,,,,,,,,,,,,,,,,,,,,58.0,MAUI ELECTRIC / MECO 001,MECO,210 W Kamehameha Ave,Kahului,Hawaii,96732.0,Maui County,United States,2.0,Public,Workplace
+45,2139KUHIOAVENUE,,,,,,,,,,,,,,,,,,,,,,,,35.0,RCRWB / EV STATION 02,The Ritz-Carlton Residences Waikiki Beach,2139 Kuhio Ave,Honolulu,Hawaii,96815.0,Honolulu County,United States,2.0,Public,Parking
+46,2330KALAKAUAAVENUE,,,,,,,,,,,,,,,,,,,,,,,,82.0,IMP EV CHARGING / LEVEL - 6 RIGHT,International Market Place,2330 Kalakaua Ave,Honolulu,Hawaii,96815.0,Honolulu County,United States,2.0,Public,Retail
+47,2520DOLESTREET,,,,,,,,,,,,,,,,,,,,,,,,1.0,ZONE 20 / ZONE 20 #2,University of Hawaii at Manoa,2520 Dole St,Honolulu,Hawaii,96822.0,Honolulu County,United States,2.0,Public,Education
+48,26NORTHKUKUISTREET,,,,,,,,,,,,,,,,,,,,,,,,89.0,HOSOI MORTUARY / HGMI001,Hosoi Garden Mortuary,26 N Kukui St,Honolulu,Hawaii,96817.0,Honolulu County,United States,2.0,Public,Parking
+49,2776KAUHALESTREET,,,,,,,,,,,,,,,,,,,,,,,,61.0,KS OFFICE EV / KS OFFICE EV,Kihei Shores Condominiums,2776 Kauhale St,Kihei,Hawaii,96753.0,Maui County,United States,2.0,Public,Multifamily Commercial
+50,301347PIIKOISTREET,,,,,,,,,,,,,,,,,,,,,,,,41.0,PARKLANE / STATION 4,Parklane Ala Moana,301-347 Piikoi St,Honolulu,Hawaii,96814.0,Honolulu County,United States,2.0,Public,Multifamily Commercial
+51,3375KOAPAKASTREET,,,,,,,,,,,,,,,,,,,,,,,,140.0,AIPA PROPERTIES / 6TH LEVEL EWA,AIPA Properties,3375 Koapaka St,Honolulu,Hawaii,96819.0,Honolulu County,United States,2.0,Public,Workplace
+52,349365PIIKOISTREET,,,,,,,,,,,,,,,,,,,,,,,,40.0,PARKLANE / STATION 5,Parklane Ala Moana,349-365 Piikoi St,Honolulu,Hawaii,96814.0,Honolulu County,United States,2.0,Public,Multifamily Commercial
+53,3550WAILEAALANUIDRIVE,,,,,,,,,,,,,,,,,,,,,,,,94.0,GARAGE1 / HYATT 3,Hyatt Andaz Maui,3550 Wailea Alanui Dr,Wailea-Makena,Hawaii,96753.0,Maui County,United States,2.0,Public,Hospitality
+54,35RUSSELLAVENUE,,,,,,,,,,,,,,,,,,,,,,,,50.0,NAVFAC / JBPHH #5,NAVFAC,35 Russell Ave,JBPHH,Hawaii,96818.0,Honolulu County,United States,2.0,Public,"Government (Fed, State)"
+55,388KELESTREET,,,,,,,,,,,,,,,,,,,,,,,,110.0,BMW OF HAWAII / MAUI STATION 01,BMW of Hawaii,388 Kele St,Wailuku,Hawaii,96793.0,Maui County,United States,1.0,Public,Retail
+56,4332LAWEHANASTREET,,,,,,,,,,,,,,,,,,,,,,,,23.0,TARGET CORP / HONOLULUT3978 2,Target Corporation,4332 Lawehana St,Honolulu,Hawaii,96818.0,Honolulu County,United States,2.0,Public,Retail
+57,4450KAPOLEIPARKWAY,,,,,,,,,,,,,,,,,,,,,,,,17.0,TARGET CORP / KAPOLEI T2411 2,Target Corporation,4450 Kapolei Pkwy,Kapolei,Hawaii,96707.0,Honolulu County,United States,2.0,Public,Retail
+58,459PATTERSONROAD,,,,,,,,,,,,,,,,,,,,,,,,6.0,VA MEDICAL CNTR / HONOLULU VA 3,Spark M. Matsunaga VA Medical Center,459 Patterson Rd,Honolulu,Hawaii,96819.0,Honolulu County,United States,2.0,Public,Healthcare
+59,46001KAMEHAMEHAHIGHWAY,,,,,,,,,,,,,,,,,,,,,,,,99.0,CASTLE PROF CTR / CPC,Adventist Health Castle,46-001 Kamehameha Hwy,Kaneohe,Hawaii,96744.0,Honolulu County,United States,2.0,Public,Healthcare
+60,4850MAKENAALANUISTREET,,,,,,,,,,,,,,,,,,,,,,,,113.0,B BUILDING EV / A BUILDING LOT,Makena Surf,4850 Makena Alanui St,Kihei,Hawaii,96753.0,Maui County,United States,2.0,Public,Multifamily Commercial
+61,55370KAMEHAMEHAHIGHWAY,,,,,,,,,,,,,,,,,,,,,,,,38.0,PCC / SOUTH,Polynesian Cultural Center,55-370 Kamehameha Hwy,Laie,Hawaii,96762.0,Honolulu County,United States,2.0,Public,Retail
+62,570HALEKAUWILASTREET,,,,,,,,,,,,,,,,,,,,,,,,66.0,KEAUHOUPLACE / 7TH FLOOR,AOUO of Keauhou Place,570 Halekauwila St,Honolulu,Hawaii,96813.0,Honolulu County,United States,2.0,Public,Multifamily Commercial
+63,575COOKESTREET,,,,,,,,,,,,,,,,,,,,,,,,37.0,POHAI NANI / STATION 01,Good Samaritan Society - Pohai Nani,575 Cooke St,Honolulu,Hawaii,96813.0,,United States,2.0,Public,Multifamily Commercial
+64,581KAMOKUSTREET,,,,,,,,,,,,,,,,,,,,,,,,34.0,RESIDENTS ONLY / ROYAL IOLANI,Royal Iolani,581 Kamoku St,Honolulu,Hawaii,96826.0,Honolulu County,United States,2.0,Public,Multifamily Commercial
+65,598HALEKAUWILASTREET,,,,,,,,,,,,,,,,,,,,,,,,70.0,KEAUHOUPLACE / 2ND KEAUHOU L,AOUO of Keauhou Place,598 Halekauwila St,Honolulu,Hawaii,96813.0,Honolulu County,United States,1.0,Public,Multifamily Commercial
+66,600ALAMOANABOULEVARD,,,,,,,,,,,,,,,,,,,,,,,,13.0,THE COLLECTION / STATION 2,The Collection at 600 Ala Moana,600 Ala Moana Blvd,Honolulu,Hawaii,96813.0,Honolulu County,United States,1.0,Public,Multifamily Commercial
+67,601617HALEKAUWILASTREET,,,,,,,,,,,,,,,,,,,,,,,,69.0,KEAUHOUPLACE / 4TH FLOOR,AOUO of Keauhou Place,601-617 Halekauwila St,Honolulu,Hawaii,96813.0,Honolulu County,United States,2.0,Public,Multifamily Commercial
+68,617OHEKANISTREET,,,,,,,,,,,,,,,,,,,,,,,,139.0,AKAKU / STATION 1,Akaku Holdings LLC,617 Ohekani St,Kahului,Hawaii,96732.0,Maui County,United States,2.0,Public,Retail
+69,619629HALEKAUWILASTREET,,,,,,,,,,,,,,,,,,,,,,,,67.0,KEAUHOUPLACE / 6TH FLOOR,AOUO of Keauhou Place,619-629 Halekauwila St,Honolulu,Hawaii,96813.0,Honolulu County,United States,2.0,Public,Multifamily Commercial
+70,651ILALOSTREET,,,,,,,,,,,,,,,,,,,,,,,,98.0,EV STATION 1 / EV STATION 1,UH JABSOM,651 ILALO STREET,Honolulu,Hawaii,96813.0,Honolulu County,United States,2.0,Public,Education
+71,7000HAWAIIKAIDRIVE,,,,,,,,,,,,,,,,,,,,,,,,145.0,7000 HAWAII KAI / 7000HK STATION3,7000 Hawaii Kai Drive,7000 Hawaii Kai Dr,Honolulu,Hawaii,96825.0,,United States,1.0,Public,Multifamily Commercial
+72,73200KUPIPISTREET,,,,,,,,,,,,,,,,,,,,,,,,33.0,SP PLUS / STATION 1,SP Plus Kona International Airport,73-200 Kupipi St,Kailua-Kona,Hawaii,96740.0,Hawaii County,United States,2.0,Public,Parking
+73,745453MAKALABOULEVARD,,,,,,,,,,,,,,,,,,,,,,,,15.0,TARGET CORP / KONA T2412 2,Target Corporation,74-5453 Makala Blvd,Kailua-Kona,Hawaii,96740.0,Hawaii County,United States,2.0,Public,Retail
+74,761WAKEASTREET,,,,,,,,,,,,,,,,,,,,,,,,72.0,KAPOLEILOFTS / BLOCK1B,Kapolei Lofts,761 Wakea St,Kapolei,Hawaii,96707.0,Honolulu County,United States,2.0,Public,Multifamily Commercial
+75,768SOUTHSTREET,,,,,,,,,,,,,,,,,,,,,,,,62.0,KP ANNEX / KP ANNEX,Kamehameha Schools,768 South St,Honolulu,Hawaii,96813.0,Honolulu County,United States,2.0,Public,Workplace
+76,803AHUASTREET,,,,,,,,,,,,,,,,,,,,,,,,141.0,AEI DEMO GROUP / AEI-DDU-01,Alternate Energy Hawaii DEMO Org,803 Ahua St,Honolulu,Hawaii,96819.0,Honolulu County,United States,2.0,Public,Workplace
+77,91971FARRINGTONHIGHWAY,,,,,,,,,,,,,,,,,,,,,,,,87.0,HTIC KAPOLEI / STATION 2,Hawaii Tokai International College,91-971 Farrington Hwy,Kapolei,Hawaii,96707.0,Honolulu County,United States,2.0,Public,Education
+78,92159WAIPAHEPLACE,,,,,,,,,,,,,,,,,,,,,,,,64.0,KO'OLINA BC / MOANA,Marriott Ko,92-159 Waipahe Pl,Kapolei,Hawaii,96707.0,Honolulu County,United States,2.0,Public,Hospitality
+79,92185ALIINUIDRIVE,,,,,,,,,,,,,,,,,,,,,,,,117.0,AULANI: DISNEY / P2 SPACE 196,Disney-Aulani,92-185 Aliinui Drive,Kapolei,Hawaii,96707.0,Honolulu County,United States,1.0,Public,Hospitality
+80,925BETHELSTREET,,,,,,,,,,,,,,,,,,,,,,,,3.0,WWW.HIEV.US / HIEV  DEMO  001,HIEV DEMO UNITS,925 Bethel St,Honolulu,Hawaii,96813.0,Honolulu County,United States,1.0,Public,Demo Unit
+81,93339HI750,,,,,,,,,,,,,,,,,,,,,,,,31.0,STATION / KUNIA 1,CBI Inc. Hawaii,93-339 HI-750,Waipahu,Hawaii,96797.0,Honolulu County,United States,2.0,Public,Retail
+82,93KANEOHEBAYDRIVE,,,,,,,,,,,,,,,,,,,,,,,,81.0,KAILUA WWTP / KAILUA WWTP,City & County of Honolulu Water Authority,93 Kaneohe Bay Dr,Kailua,Hawaii,96734.0,Honolulu County,United States,2.0,Public,"Government (Fed, State)"
+83,94815LUMIAINASTREET,,,,,,,,,,,,,,,,,,,,,,,,5.0,WAIKELE CENTER / WAIKELE CENTER,American Assets Trust - Waikele Center,94-815 Lumiaina St,Waipahu,Hawaii,96797.0,Honolulu County,United States,2.0,Public,Retail
+84,99688KAULAINAHEEPLACE,,,,,,,,,,,,,,,,,,,,,,,,91.0,HIWIND POWER / CHARGEPOINT 111,High Wind Power,99-688 Kaulainahee Pl,Aiea,Hawaii,96701.0,Honolulu County,United States,1.0,Public,Workplace
+85,99999IWAENASTREET,,,,,,,,,,,,,,,,,,,,,,,,104.0,C&C HONOLULU / MAINT 1,City & County of Honolulu,99-999 Iwaena St,Aiea,Hawaii,96701.0,Honolulu County,United States,1.0,Public,Municipal
+86,999BISHOPSTREET,,,,,,,,,,,,,,,,,,,,,,,,97.0,FHC / PV 1 & 2,First Hawaiian Bank,999 Bishop St,Honolulu,Hawaii,96813.0,Honolulu County,United States,2.0,Public,Workplace
+87,BLDG166SOUTHAVENUE,,,,,,,,,,,,,,,,,,,,,,,,55.0,NAVFAC / BLDG 166 INDOOR,NAVFAC,Bldg 166 South Ave,Pearl Harbor,Hawaii,96860.0,Honolulu County,United States,1.0,Public,"Government (Fed, State)"
+88,KAPOLEIPARKWAY,,,,,,,,,,,,,,,,,,,,,,,,73.0,KAPOLEILOFTS / BLOCK 4B,Kapolei Lofts,Kapolei Pkwy,Kapolei,Hawaii,96707.0,,United States,2.0,Public,Multifamily Commercial
+89,PIIKEAPLACE,,,,,,,,,,,,,,,,,,,,,,,,90.0,HIWIND POWER / HWP001,High Wind Power,Piikea Pl,Makawao,Hawaii,96768.0,Maui County,United States,1.0,Public,Workplace
+90,WESTKAMEHAMEHAAVENUE,,,,,,,,,,,,,,,,,,,,,,,,57.0,MAUI ELECTRIC / MECO 002,MECO,W Kamehameha Ave,Kahului,Hawaii,96732.0,Maui County,United States,2.0,Public,Workplace
